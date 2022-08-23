@@ -45,11 +45,11 @@ public class Main {
         // Задача 6.
         var weight1Boxer = 78.2;
         var weight2Boxer = 82.7;
-        System.out.println("Вес двух бойцов - " + (weight1Boxer + weight2Boxer) + " кг.");
-        System.out.println("Pазницa между весами бойцов - " + (weight2Boxer - weight1Boxer) + " кг.");
+        System.out.println("Вес двух бойцов - " + (weight1Boxer + weight2Boxer) + " кг");
+        System.out.println("Pазницa между весами бойцов - " + (weight2Boxer - weight1Boxer) + " кг");
 
         // Задача 7.
-        System.out.println("Pазницa между весами бойцов - " + (weight2Boxer % weight1Boxer) + " кг.");
+        System.out.println("Pазницa между весами бойцов - " + (weight2Boxer % weight1Boxer) + " кг");
 
         // Задача 8.1.
         int a = 640 / 8;
